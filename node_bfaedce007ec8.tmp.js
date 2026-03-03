@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="macaquito.css">
+    <title>Macaquito</title>
+</head>
+<body>
+    <section>
+        <h1>SAIUM-DE-COLEIRA</h1>
+        <h1>(Macaquito)</h1>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Saguinus_bicolor_Parque_do_Mindu.jpg/250px-Saguinus_bicolor_Parque_do_Mindu.jpg" alt="Macaquito" class="macaquito-image">
+        <p>O sauim-de-coleira (Saguinus bicolor), também conhecido como sauim-de-Manaus e sauim-de-duas-cores, é um sagui encontrado na Amazônia brasileira, mais especificamente em partes dos município de Manaus, Rio Preto da Eva e Itacoatiara, no Amazonas. Esse primata pertence à família Cebidae e ao gênero Saguinus. Encontra-se criticamente em perigo de extinção devido a perda e fragmentação do seu habitat, atropelamento e eletrocussão, uma vez que sua área de ocorrência é restrita e vem sendo ocupada pelo crescimento desordenado da região metropolitana de Manaus.</p>
+        <button>
+            <a href="https://pt.wikipedia.org/wiki/Saguinus_bicolor" target="_blank">Saiba mais<img src="https://cdn-icons-png.flaticon.com/512/6661/6661257.png" alt="Macaquito" class="macaquito-icon"></a>
+        </button>
+    </section>
+</body>
+</html>
